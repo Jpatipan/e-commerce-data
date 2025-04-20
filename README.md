@@ -13,7 +13,7 @@ e-commerce-data/
 │   ├── cleaned_data.csv
 │   └── rfm_customers.csv
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb
+│   ├── 01_exploration.ipynb
 │   ├── 02_daily_sales_analysis.ipynb
 │   ├── 03_product_trend.ipynb
 │   ├── 04_sales_daily.ipynb
